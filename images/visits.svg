@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="67px" height="67px" viewBox="0 0 67 67" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>40mins</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01_28" transform="translate(-389.000000, -168.000000)">
+            <g id="40mins" transform="translate(378.000000, 156.000000)">
+                <g id="clock" fill="#AFEEF7" stroke="#000000" stroke-dasharray="1,16">
+                    <path d="M44.7582536,78.0432168 C62.707508,78.0432168 77.2582536,63.4924712 77.2582536,45.5432168 C77.2582536,27.5939625 62.707508,13.0432168 44.7582536,13.0432168 C26.8089992,13.0432168 12.2582536,27.5939625 12.2582536,45.5432168 C12.2582536,63.4924712 26.8089992,78.0432168 44.7582536,78.0432168 Z" id="Oval" transform="translate(44.758254, 45.543217) rotate(31.000000) translate(-44.758254, -45.543217) "></path>
+                </g>
+                <path d="M23.3851962,58.5699949 C27.7176882,66.0038951 35.7753927,71 45,71 C58.8071187,71 70,59.8071187 70,46 C70,32.1928813 58.8071187,21 45,21" id="Path" stroke="#040404"></path>
+                <line x1="42.0697335" y1="54.972603" x2="35.843766" y2="42.0792974" id="Line-10" stroke="#050505" stroke-linecap="square" transform="translate(38.965171, 48.490969) rotate(-89.000000) translate(-38.965171, -48.490969) "></line>
+                <line x1="48.7417621" y1="44.5194318" x2="43.4582379" y2="35.1805682" id="Line-10" stroke="#050505" stroke-linecap="square" transform="translate(46.100000, 39.850000) rotate(213.775141) translate(-46.100000, -39.850000) "></line>
+            </g>
+        </g>
+    </g>
+</svg>
